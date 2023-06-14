@@ -1,7 +1,41 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Dev Grumps</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #f3f3f3;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div class="container">
+        <h1>Dev Grumps</h1>
+        <p>Dev Grumps is a Podcast by Adam (Creator of Space Dodo) and Kaleb (Creator of S.M.A.C.K.) give hot takes and commentary on the game design of the games that inspire us.</p>
+        <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/5YXaUViE3bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
 </body>
 </html>
