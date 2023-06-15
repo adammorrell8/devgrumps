@@ -2,6 +2,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
+    <title>Dev Grumps</title>
     <itunes:owner>
       <itunes:name>Adam Morrell</itunes:name>
       <itunes:email>techdiveproductions@gmail.com</itunes:email>
