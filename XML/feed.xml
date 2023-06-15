@@ -1,5 +1,6 @@
-<?xml version="1.0"?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
     <title>Dev Grumps</title>
     <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
@@ -9,23 +10,36 @@
     </itunes:owner>
     <itunes:keywords>gamedev,game,development,design,indie,VR,Virtual,Reality,game design</itunes:keywords>
     <copyright>Tech Dive Productions</copyright>
-    <description>Dev Grumps is a Podcast by Adam (Creator of Space Dodo) and Kaleb (Creator of S.M.A.C.K.) give hot takes and commentary on the game design of the games that inspire us. </description>
+    <description>Dev Grumps is a Podcast by Adam (Creator of Space Dodo) and Kaleb (Creator of S.M.A.C.K.) give hot takes and commentary on the game design of the games that inspire us.
+	</description>
     <googleplay:image href="https://adammorrell8.github.io/devgrumps/Thumbnails/A%26K_Devgrumps.jpg"/>
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>
     <link>https://adammorrell8.github.io/devgrumps/XML/feed.xml</link>
-    <itunes:image href="https://adammorrell8.github.io/devgrumps/Thumbnails/A%26K_Devgrumps.jpg"/>
+    <itunes:image href="https://adammorrell8.github.io/devgrumps/Thumbnails/A%26K_Devgrumps.jpg" />
     <item>
       <author>Adam Morrell, Kaleb Knoettgen</author>
-      <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
+      <itunes:author>Adam Morrell, Kaleb K.</itunes:author>
       <title>Do Game Stories Matter? Dev Grumps Ep. 1</title>
       <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>
-      <enclosure length="42650961" type="audio/mpeg" url="https://adammorrell8.github.io/devgrumps/Audio/Episode_1.mp3"/>
+      <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_1.mp3" type="audio/mpeg" length="42650961" />
       <itunes:duration>44:25</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>2 Game developers talk about uninspired game creations, beginner pitfalls, and what makes a good game. -Show Notes- Space Dodo on YouTube: https://www.youtube.com/channel/UC1FwpA43c9h4X6KjupfGwlA Kaleb's Free Game https://store.steampowered.com/app/2118060/SMACK/ SMACK discord https://discord.gg/kSSGngTR Adam's Itch (Some small VR games free) https://spacedodo88.itch.io/ </description>
+      <description>
+2 Game developers talk about uninspired game creations, beginner pitfalls, and what makes a good game.
+-Show Notes-
+Space Dodo on YouTube: https://www.youtube.com/channel/UC1FwpA43c9h4X6KjupfGwlA
+
+Kaleb's Free Game
+https://store.steampowered.com/app/2118060/SMACK/
+SMACK discord
+https://discord.gg/kSSGngTR
+
+Adam's Itch (Some small VR games free)
+https://spacedodo88.itch.io/
+        </description>
     </item>
   </channel>
 </rss>
