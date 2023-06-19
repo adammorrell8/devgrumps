@@ -13,6 +13,7 @@
     <itunes:category text="Games &amp; Hobbies">
         <itunes:category text="Video Games"/>
     </itunes:category>
+    <itunes:category text="Technology"/>
     <copyright>Tech Dive Productions</copyright>
     <description>Dev Grumps is a Podcast by Adam (Creator of Space Dodo) and Kaleb (Creator of S.M.A.C.K.) give hot takes and commentary on the game design of the games that inspire us.
     </description>
@@ -24,7 +25,7 @@
     <itunes:image href="https://adammorrell8.github.io/devgrumps/Thumbnails/A%26K_Devgrumps.jpg" />
     <item>
       <author>Adam Morrell, Kaleb Knoettgen</author>
-      <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
+      <itunes:author>Adam Morrell, Kaleb K.</itunes:author>
       <title>Do Game Stories Matter? Dev Grumps Ep. 1</title>
       <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>
       <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_1.mp3" type="audio/mpeg" length="42650961" />
