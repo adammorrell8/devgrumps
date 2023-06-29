@@ -26,8 +26,7 @@
       <author>Adam Morrell, Kaleb Knoettgen</author>
       <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
       <title>Do Game Stories Matter? Dev Grumps Ep. 1</title>
-      <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>
-      <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_1.mp3" type="audio/mpeg" length="42650961" />
+      <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>      <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_1.mp3" type="audio/mpeg" length="42650961" />
       <itunes:duration>44:25</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -44,10 +43,10 @@ Adam's Itch (Some small VR games free): https://spacedodo88.itch.io/
       <author>Adam Morrell, Kaleb Knoettgen</author>
       <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
       <title>Uninspired Games and Why They Suck! : Dev Grumps Ep. 2</title>
-      <pubDate>Wed, 04 Jan 2023 13:00:00 CST</pubDate>
+      <pubDate>Wed, 11 Jan 2023 13:00:00 CST</pubDate>
       <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_2.mp3" type="audio/mpeg" length="46793216" />
-      <itunes:duration>44:25</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <itunes:duration>48:44</itunes:duration>
+	<guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 2 Game developers talk about uninspired game creations, beginner pitfalls, and what makes a good game.
