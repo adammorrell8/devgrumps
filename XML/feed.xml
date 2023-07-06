@@ -57,5 +57,30 @@ SMACK discord: https://discord.gg/kSSGngTR
 Adam's Itch (Some small VR games free): https://spacedodo88.itch.io/
       </description>
     </item>
+      <item>
+      <author>Adam Morrell, Kaleb Knoettgen</author>
+      <itunes:author>Adam Morrell, Kaleb Knoettgen</itunes:author>
+      <title>Design Breakdown Tears of the Kingdom Design: Dev Grumps Ep. 3</title>
+      <pubDate>Wed, 5 Jul 2023 21:00:00 CST</pubDate>
+      <enclosure url="https://adammorrell8.github.io/devgrumps/Audio/Episode_3.mp3" type="audio/mpeg" length="32871970" />
+      <itunes:duration>34:14</itunes:duration>
+	<guid isPermaLink="false">cepod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+2 Game developers talk about uninspired game creations, beginner pitfalls, and what makes a good game.
+-Show Notes-
+Dev Breakdown Tears of the Kingdom Design: Dev Grumps Ep. 3
+We talk about Zelda tears of the kingdom's design, proper grey boxing and more #gamedev stuff
+Join the discord! https://discord.gg/M4JQ9gfJ
+
+Kaleb's Free Game
+https://store.steampowered.com/app/2118060/SMACK/
+SMACK discord
+https://discord.gg/kSSGngTR
+
+Adam's Itch (Some small VR games free)
+https://spacedodo88.itch.io/
+      </description>
+    </item>
   </channel>
 </rss>
